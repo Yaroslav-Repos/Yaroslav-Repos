@@ -1,4 +1,4 @@
-# Yaroslav
+# Yaroslav Yakovlev
 
 Backend Developer focused on Python, Django, AI integration, and real-time communication systems.
 
