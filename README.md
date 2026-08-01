@@ -60,6 +60,9 @@ Production-oriented Telegram assistant for customer support and business automat
 
 Python • Google GenAI SDK • MongoDB • Telegram Bot API • aiogram
 
+**Repository:**  
+https://github.com/Yaroslav-Repos/Telegram-RAG-Bot-Public
+
 ---
 
 ### DjangoVoIP
@@ -78,6 +81,9 @@ Real-time voice and video communication platform.
 
 Python • Django • Django Channels • WebSockets • PostgreSQL • Docker • LiveKit
 
+**Repository:**  
+https://github.com/Yaroslav-Repos/DjangoVoIP
+
 ---
 
 ### AI Presentation Coach
@@ -95,6 +101,9 @@ AI-powered platform for presentation practice and performance analysis.
 **Technologies**
 
 Python • Django • DRF • OpenCV • Google GenAI SDK • PostgreSQL
+
+**Repository:**  
+https://github.com/Yaroslav-Repos/Django-AI-Coach-presentation
 
 ---
 
