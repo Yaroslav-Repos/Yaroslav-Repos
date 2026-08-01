@@ -100,7 +100,7 @@ AI-powered platform for presentation practice and performance analysis.
 
 **Technologies**
 
-Python • Django • DRF • OpenCV • Google GenAI SDK • PostgreSQL
+Python • Django • DRF • MediaPipe • Google GenAI SDK • PostgreSQL
 
 **Repository:**  
 https://github.com/Yaroslav-Repos/Django-AI-Coach-presentation
