@@ -127,12 +127,8 @@ Academic and personal projects covering:
 ## Areas of Interest
 
 * Backend Development
-* REST API Design
-* AI Integration
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models
+* AI/LLM Integration & RAG
 * Real-time Communication Systems
 * System Design
-* WebSocket Applications
-* Containerized Deployment
+* Containerization & Deployment
 
