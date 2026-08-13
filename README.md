@@ -46,7 +46,7 @@ Backend Developer focused on Python, Django, AI integration, and real-time commu
 
 ### Telegram RAG Bot
 
-Production-oriented Telegram assistant for customer support and business automation.
+AI-powered Telegram assistant for customer support and business automation, using RAG to retrieve relevant knowledge and generate context-aware responses.
 
 **Key Features**
 
@@ -68,7 +68,7 @@ https://github.com/Yaroslav-Repos/Telegram-RAG-Bot-Public
 
 ### DjangoVoIP
 
-Real-time voice and video communication platform.
+Real-time voice and video communication platform built with WebRTC and LiveKit, with Django handling authentication, meeting management, and backend communication.
 
 **Key Features**
 
@@ -89,7 +89,7 @@ https://github.com/Yaroslav-Repos/DjangoVoIP
 
 ### AI Presentation Coach
 
-AI-powered platform for presentation practice and performance analysis.
+AI-powered platform for presentation practice and performance analysis, using computer vision to analyze user behavior and provide AI-assisted feedback.
 
 **Key Features**
 
