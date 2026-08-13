@@ -112,13 +112,13 @@ https://github.com/Yaroslav-Repos/Django-AI-Coach-presentation
 
 Academic and personal projects covering:
 
-* ASP.NET backend development
+* Web application development with ASP.NET
 * Python development — desktop/mobile applications and Telegram bots
 * Android development with Kotlin
+* Web interface development with HTML, CSS, JavaScript, and Next.js
 * Machine learning with TensorFlow and Keras
 * Data structures and algorithms
-* Database design
-* REST API development
+* Database design and integration
 * Software engineering coursework with C++ and Java
 * Computer networking and Cisco Packet Tracer
 
