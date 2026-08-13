@@ -89,7 +89,7 @@ https://github.com/Yaroslav-Repos/DjangoVoIP
 
 ### AI Presentation Coach
 
-AI-powered platform for presentation practice and performance analysis, using computer vision to analyze user behavior and provide AI-assisted feedback.
+AI-powered platform for presentation practice and performance analysis, using computer vision to analyze user behavior and provide personalized feedback.
 
 **Key Features**
 
