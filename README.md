@@ -113,15 +113,14 @@ https://github.com/Yaroslav-Repos/Django-AI-Coach-presentation
 Academic and personal projects covering:
 
 * ASP.NET backend development
-* Desktop applications with Python
-* Mobile applications with Kivy
+* Python development — desktop/mobile applications and Telegram bots
 * Android development with Kotlin
-* Machine Learning using TensorFlow and Keras
-* Algorithms and data structures
+* Machine learning with TensorFlow and Keras
+* Data structures and algorithms
 * Database design
 * REST API development
-* Object-Oriented Programming
-* Software engineering coursework
+* Software engineering coursework with C++ and Java
+* Computer networking and Cisco Packet Tracer
 
 ---
 
