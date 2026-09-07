@@ -46,6 +46,7 @@ Backend Developer focused on Python, Django, AI integration, and real-time commu
 
 ### Latest project
 <!-- LATEST_REPOS:START -->
+**[Fast-Api-AI-RAG](https://github.com/Yaroslav-Repos/Fast-Api-AI-RAG)**
 <!-- LATEST_REPOS:END -->
 
 ### Telegram RAG Bot
