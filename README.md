@@ -44,6 +44,10 @@ Backend Developer focused on Python, Django, AI integration, and real-time commu
 
 ## Featured Projects
 
+### Latest project
+<!-- LATEST_REPOS:START -->
+<!-- LATEST_REPOS:END -->
+
 ### Telegram RAG Bot
 
 AI-powered Telegram assistant for customer support and business automation, using RAG to retrieve relevant knowledge and generate context-aware responses.
