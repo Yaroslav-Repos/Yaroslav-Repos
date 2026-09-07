@@ -42,12 +42,12 @@ Backend Developer focused on Python, Django, AI integration, and real-time commu
 ![LiveKit](https://img.shields.io/badge/LiveKit-111827?style=for-the-badge&logoColor=white)
 ---
 
-## Featured Projects
-
 ### Latest project
 <!-- LATEST_REPOS:START -->
 **[Fast-Api-AI-RAG](https://github.com/Yaroslav-Repos/Fast-Api-AI-RAG)**
 <!-- LATEST_REPOS:END -->
+
+## Featured Projects
 
 ### Telegram RAG Bot
 
